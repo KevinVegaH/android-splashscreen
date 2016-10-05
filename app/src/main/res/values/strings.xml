@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+    <string name="title_activity_default_fullscreen">DefaultFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
